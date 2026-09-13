@@ -1,0 +1,6 @@
+{
+  "name": "Cat Facts Collector",
+  "description": "Tuxedo cat edition featuring Misia with tuxedo facts collector, Microsoft TypeScript DI architecture, and local .txt persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
